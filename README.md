@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there 👋
 
-**MarciaMagaX/MarciaMagaX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Marcia Xavier is an enthusiastic QA Tester ✨ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 🚀
-
+- 🔭 I’m currently working on Tests for CodeLead.
+- 🌱 I’m currently learning React and React Native.
+- 👯 I’m looking to collaborate on English Language's issues.
+- 🤔 I’m looking for help with Tests Practice.
+- 📫 How to reach me: marciamxms@gmail.com.
+- ⚡ Fun fact: I'm very sarcasticand I'm crazy for cats.
+- 🚀 To be challenged.
+- 📄 Know about my experiences: file:///C:/Users/User/AppData/Local/Temp/Rar$DRa11300.19298/CVMarciaXavierQATester.html
