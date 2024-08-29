@@ -2,11 +2,10 @@ Hi there 👋
 
 ✨ Marcia Xavier is an enthusiastic QA Tester ✨ 
 
-- 🔭 I’m currently working on Tests for CodeLead.
-- 🌱 I’m currently learning React and React Native.
+- 🔭 I’m currently working on Could Computing.
+- 🌱 I’m currently working on learning automation in Backstage.
 - 👯 I’m looking to collaborate on English Language's issues.
-- 🤔 I’m looking for help with Tests Practice.
+- 🤔 I’m looking for projects in DevOps.
 - 📫 How to reach me: marciamxms@gmail.com.
-- ⚡ Fun fact: I'm very sarcasticand I'm crazy for cats.
+- ⚡ Fun fact: I'm very sarcastic and I'm crazy for cats.
 - 🚀 To be challenged.
-- 📄 Know about my experiences: file:///C:/Users/User/AppData/Local/Temp/Rar$DRa11300.19298/CVMarciaXavierQATester.html
