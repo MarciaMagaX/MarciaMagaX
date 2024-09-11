@@ -1,6 +1,6 @@
 Hi there 👋
 
-✨ Marcia Xavier is an enthusiastic QA Tester ✨ 
+✨ Marcia Xavier is an enthusiastic Engineer DevOps Junior ✨ 
 
 - 🔭 I’m currently working on Could Computing.
 - 🌱 I’m currently working on learning automation in Backstage.
