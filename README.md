@@ -3,7 +3,9 @@
 ✨ Enthusiastic QA | VM & DevOps Lover | Automation Explorer ✨  
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=500&lines=Quality+Assurance+%7C+DevOps+%7C+Automation+Testing;Learning+new+technologies+every+day!" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&center=true&vCenter=true&width=600&lines=Quality+Assurance+Engineer;DevOps+Enthusiast;Learning+new+technologies+every+day!" alt="Typing SVG" />
+</p>
 
 ---
 
@@ -51,3 +53,8 @@
 ✔️ **Deploy and automate cloud infrastructure**  
 
 ---
+
+
+
+
+
